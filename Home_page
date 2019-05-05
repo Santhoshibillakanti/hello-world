@@ -1,0 +1,128 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>Page Title</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  margin: 0;
+}
+
+/* Style the header */
+.siteheader{
+  padding: 80px;
+  text-align: center;
+  background: #fff;
+  color: Black;
+}
+
+/* Increase the font size of the h1 element */
+.header h1 {
+  font-size: 80px;
+}
+.siteheaderh2 {
+
+  font-size: 80px;
+}
+
+.finecooking-logo img{
+    max-width: 100%;
+    height: 100%;
+ }
+ 
+ .subscribe-button button{
+  	display: inline-block;
+     background: #de6a4c;
+	     border-radius: 3px;
+	     color: #fff;
+     border: 1px solid #de6a4c;
+     width: 115px;
+     padding: 10px 0;
+     text-align: center;
+     float: left;
+     position: relative;
+
+}
+/* Style the top navigation bar */
+.navbar {
+  overflow: hidden;
+  background-color: #fff;
+}
+
+/* Style the navigation bar links */
+.navbar a {
+  float: left;
+  display: block;
+  color: black;
+  text-align: center;
+  padding: 14px 20px;
+  text-decoration: underline;
+}
+/* Change color on hover */
+.navbar a:hover {
+  background-color: #ddd;
+  color: blue;
+}
+.navbar input[type=text] {
+  float: right;
+  padding: 6px;
+  margin-top: 8px;
+  margin-right: 16px;
+  font-size: 17px;
+   
+  
+}
+.Recipe-title{
+
+}
+.Recipe{
+
+}
+
+
+</style>
+</head>
+<body>
+
+<div class="siteheader">
+  <h2>Fine<h2>
+  <h1>Cooking</h1>
+</div>
+<div class="finecooking-logo">
+  <img src="https://d2qsoa8c1ozss4.cloudfront.net/320x423/app/uploads/2018/12/07145032/157cover_calameo.jpg" height="100" width="100"> 
+</div>
+<div class="subscribe-button">
+  <button>subscribe</button>
+</div>
+<hr></hr>
+<div class="navbar">
+  <a href="#">Recipies</a>
+  <a href="#">How-to</a>
+  <a href="#">Ingredients</a>
+  <a href="#">Magazine</a>
+   <input type="text" placeholder="Search..">
+</div>
+<hr></hr>
+<div class="Recipe-title">
+  <h3>Decadent Ganache Recipe<h3>
+</div>
+<div class="RecipeImage">
+  <img src="C:\Personal Use\CIT Assignments\Website Creation Project\Images" height="100" width="100"> 
+</div>
+<div class = "Recipe">
+<p><p>The ratio of chocolate to cream determines the consistency of ganache.<br>
+ At a ratio of two parts chocolate to one part cream, ganache cools to a firm and<br>
+ smooth texture, perfect for rolling into chocolate truffles. Change the ratio to <br>
+ equal parts chocolate and cream, and you’ll have medium-consistency ganache, just <br>
+ right for glazing and filling cakes and pastries. At one part chocolate, two parts cream,<br>
+ you’ll have liquidy or soft ganache, which can be whipped into a mousse like consistency.<br>
+ For the greatest precision, measure the chocolate and cream by weight rather than volume.</p>
+</div> 
+  
+
+</body>
+
+</html>
